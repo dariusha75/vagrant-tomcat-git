@@ -1,0 +1,7 @@
+name 'tomcat'
+version '0.0.3'
+summary 'Install Tomcat6 with admin & user'
+description "This is a module that installs tomcat6 package
+license 'GPLv3'
+author 'Hoang Duong <hoangf.da@gmail.com> - https://github.com/wizhub'
+

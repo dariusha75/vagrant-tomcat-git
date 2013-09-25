@@ -1,0 +1,7 @@
+name 'git'
+version '0.0.3'
+summary 'Install git-core, git-daemon-run packages, start git-daemon service...'
+description "Install git-core, git-daemon-run packages, start git-daemon service to allow git:// protocol 
+license 'GPLv3'
+author 'Hoang Duong <hoangf.da@gmail.com> - https://github.com/wizhub'
+
